@@ -1,0 +1,27 @@
+--------------------REDSEC  //thanks for choosing my tool! :D--------------------
+
+	How to run:
+
+		Windows:option 1:
+
+		1. open "CMD"
+
+		2. "cd" > into the folder which contains the "REDSEC" file
+
+		3. type "REDSEC.py"   -   press enter
+
+
+		Windows:option 2:
+
+		1. open the "WindowsVersion(.py, exe)" directory
+
+		2. run "REDSEC"   -   (it´s the script convertet into a executable)
+
+
+		Linux/Kali Linux:option 1:
+
+		1. open the "Terminal"
+
+		2. git clone 
+
+		3. type "python REDSEC.py"   -   press enter
