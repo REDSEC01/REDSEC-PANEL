@@ -58,7 +58,8 @@ print(VERDE + """
 /_/  |_|\__/ \__/ \__,_/ \___//_/|_|   /____/ \__/ \__,_//_/    \__/
 """ + RESET)
 
-# Definir caracteres de la barra de progreso
+
+# Define progress bar characters
 progress_chars = ["[                    ]", "[#                   ]", "[##                  ]",
                   "[###                 ]", "[####                ]", "[#####               ]",
                   "[######              ]", "[#######             ]", "[########            ]",
