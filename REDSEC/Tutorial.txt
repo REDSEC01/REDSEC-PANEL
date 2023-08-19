@@ -1,4 +1,4 @@
---------------------REDSEC  //thanks for choosing my tool! :D--------------------
+--------------------REDSEC--------------------
 
 	How to run:
 
